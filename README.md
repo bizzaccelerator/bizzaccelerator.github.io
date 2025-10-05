@@ -35,9 +35,9 @@ My work bridges the gap between **data science research** and **real-world produ
 
 | Project | Description |
 |----------|-------------|
-| 🌽 **Corn Yield Prediction Service** | End-to-end ML service predicting corn yield from farmer surveys using Docker, MLflow, and Evidently. Know more this project [here](https://github.com/bizzaccelerator/corn-yield-prediction.git) |
-| 🧠 **Public Employment Pulse** | Data pipeline and analytics system for monitoring employment trends, built with dbt and GCP. Know more this project [here](https://github.com/bizzaccelerator/public-employment-pulse.git) |
-| 🌍 **Footballers Transfers Insights** | End-to-end data engineering and analytics project built to help a football agency optimize player investment decisions under budget constraints. Project deployed with Terraform on GCP. Know more this project [here](https://github.com/bizzaccelerator/Footballers-transfers-Insights.git)|
+| 🌽 **Corn Yield Prediction Service** | End-to-end ML service predicting corn yield from farmer surveys using Docker, MLflow, and Evidently. Know more about this project [here](https://github.com/bizzaccelerator/corn-yield-prediction.git) |
+| 🧠 **Public Employment Pulse** | Data pipeline and analytics system for monitoring employment trends, built with dbt and GCP. Know more about this project [here](https://github.com/bizzaccelerator/public-employment-pulse.git) |
+| 🌍 **Footballers Transfers Insights** | End-to-end data engineering and analytics project built to help a football agency optimize player investment decisions under budget constraints. Project deployed with Terraform on GCP. Know more about this project [here](https://github.com/bizzaccelerator/Footballers-transfers-Insights.git)|
 
 *(More projects available in my repositories.)*
 
